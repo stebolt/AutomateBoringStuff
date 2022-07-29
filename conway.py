@@ -64,3 +64,5 @@ while True: # Main program loop
             # Everything else dies or stays dead:
                 nextCells[x][y] = ' '
 time.sleep(1) # add a one second pause to reduce flickering.
+
+# Added a line to push this up to GitHub from Command Line
